@@ -6,7 +6,7 @@ React Todo App is a user-friendly todo application built with React, providing a
 ## Screenshots
 
 
-![App Screenshot](https://via.placeholder.com/800x400/0f0715/ffffff?text=React+Todo+App)
+![App Screenshot](https://raw.githubusercontent.com/kamalanathan23/React-Todo-App/13b7a895009f43e88c46456a1a9a5c4328b0635e/src/images/todo.png)
 
 
 ## Tech Stack
