@@ -16,4 +16,4 @@ React Todo App is a user-friendly todo application built with React, providing a
 
 ## Live Preview
 
-https://your-todo-app.vercel.app/
+https://react-todo-app-q9y3.vercel.app/
